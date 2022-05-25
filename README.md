@@ -13,5 +13,7 @@ https://ipban.com/help/datacenter-and-personal-changelog/
 Documentation:
 
 https://ipban.com/help/
+
 https://ipban.com/ipban-pro-install-instructions
+
 https://ipban.com/ipban-pro-web-admin-overview
