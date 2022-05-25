@@ -1,16 +1,17 @@
 # IPBan Pro Releases
 
-Official repository for IPBan Pro releases. Download and install requires acceptance of the <a href='https://ipban.com/terms-and-conditions/'>License and Terms and Conditions</a>
-<br/>
+**Official repository for IPBan Pro releases**
+
+Download and install requires acceptance of the <a href='https://ipban.com/terms-and-conditions/'>License and Terms and Conditions</a>
 
 Please visit <a href='https://ipban.com/products'>IPBan Pro Website for Licenses</a>.
 
-Changelogs:
+**Changelogs:**
 
 https://ipban.com/web-admin-changelog/
 https://ipban.com/help/datacenter-and-personal-changelog/
 
-Documentation:
+**Documentation:**
 
 https://ipban.com/help/
 
