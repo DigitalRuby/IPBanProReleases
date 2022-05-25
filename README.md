@@ -9,6 +9,7 @@ Please visit <a href='https://ipban.com/products'>IPBan Pro Website for Licenses
 **Changelogs:**
 
 https://ipban.com/web-admin-changelog/
+
 https://ipban.com/help/datacenter-and-personal-changelog/
 
 **Documentation:**
